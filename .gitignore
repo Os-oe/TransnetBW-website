@@ -34,3 +34,4 @@ temp/
 gh.tar.gz
 gh.zip
 gh_*/
+.vercel
